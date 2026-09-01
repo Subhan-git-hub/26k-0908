@@ -4,7 +4,7 @@
 
 ## Education
 
-I am currently studying my **BSCS** degree 1st semester from *NUCES karachi shah latif* main campus. I have done my schooling from adamjee grammar school and I completed my intermidiate education from adamjee government science college
+I am currently pursuing my **BSCS degree** in my 1st semester at *NUCES Karachi, Shah Latif* Main Campus. I completed my schooling at **Adamjee grammar school** and I completed my intermidiate education at **adamjee government** science college
 
 ## Skills
 * HTML
@@ -15,3 +15,10 @@ I am currently studying my **BSCS** degree 1st semester from *NUCES karachi shah
 1,BBQ restraunt website
 2,Portfolio website
 3,Calculator
+
+## Hobbies
+1,Playing Physical games
+  I was selected for my school's basketball team and won trophies through competitive participation. - [x]
+  Football is the sport I am most passionate about, and I actively participate in football tournaments. I have also won several trophies through competitive participation. - [x]
+  I aspire to contribute to my university by participating in sports and other activities, while taking advantage of opportunities to collaborate with other institutions and represent my university. - []
+2,Playing e-sports and video games such as PUBG and GTA.
