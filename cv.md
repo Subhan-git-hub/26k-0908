@@ -18,7 +18,7 @@ I am currently pursuing my **BSCS degree** in my 1st semester at *NUCES Karachi,
 
 ## Hobbies
 1,Playing Physical games
-  I was selected for my school's basketball team and won trophies through competitive participation. - [x]
-  Football is the sport I am most passionate about, and I actively participate in football tournaments. I have also won several trophies through competitive participation. - [x]
-  I aspire to contribute to my university by participating in sports and other activities, while taking advantage of opportunities to collaborate with other institutions and represent my university. - []
+  - [x] I was selected for my school's basketball team and won trophies through competitive participation. 
+  - [x] Football is the sport I am most passionate about, and I actively participate in football tournaments. I have also won several trophies through competitive participation.
+  - [] I aspire to contribute to my university by participating in sports and other activities, while taking advantage of opportunities to collaborate with other institutions and represent my university.
 2,Playing e-sports and video games such as PUBG and GTA.
