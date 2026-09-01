@@ -1,4 +1,4 @@
-![profile picture](https://github.com/Subhan-git-hub/26k-0908/blob/fce785f9a8500aa78342893e3cb06fd02be9c1ba/8af1db5d-3c57-4b12-b44c-f38a4fcf1164.png)
+<img src="https://github.com/Subhan-git-hub/26k-0908/blob/fce785f9a8500aa78342893e3cb06fd02be9c1ba/8af1db5d-3c57-4b12-b44c-f38a4fcf1164.png" width="100" height="100">
 
 # Muhammad Subhan
 
